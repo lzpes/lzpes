@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1F5C99&height=200&section=header&text=Guilherme%20Lopes&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer&descSize=20&descAlignY=58&descColor=c9d8f0" width="100%"/>
 </div>
 
-<div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=1F5C99&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Construindo+pipelines+de+dados+escaláveis;Databricks+·+PySpark+·+Delta+Lake+·+AWS)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
