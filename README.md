@@ -77,7 +77,7 @@ guilherme = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilm/)
-[![Email](https://img.shields.io/badge/Email-seuemail@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![Email](https://img.shields.io/badge/Email-guilhermemendks@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermemendks@gmail.co)
 
 </div>
 
