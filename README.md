@@ -47,27 +47,8 @@ guilherme = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**📊 Visualização**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Superset](https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white)
-
 </div>
 
-
-
-
----
-
-## `$ git log --stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilm&show_icons=true&theme=default&hide_border=true&title_color=1F5C99&icon_color=1F5C99&text_color=333333&bg_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilm&layout=compact&hide_border=true&title_color=1F5C99&text_color=333333&bg_color=ffffff)
-
-</div>
 
 
 ---
